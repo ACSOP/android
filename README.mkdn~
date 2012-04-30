@@ -9,7 +9,7 @@ To get started with Android, you'll need to get familiar with
 
 To initialize your local repository using the ACSOP trees, use a command like this:
 
-    repo init -u git://github.com/ACSOP/android.git
+    repo init -u git://github.com/ACSOP/android.git -b ics
 
 Then to sync up:
 
